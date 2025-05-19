@@ -67,48 +67,54 @@
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            Is this template free to use?
-          </div>
-          <div class="collapse-content">
-            <p>Yup! This template is free to use for any project.</p>
-          </div>
-        </div>
-        <div class="collapse collapse-arrow join-item border border-primary">
-          <input type="radio" name="faq-accordion" />
-          <div class="collapse-title text-lg font-medium">
-            Why does a free template have a pricing page?
+            What are the benefits of the Annual Plan?
           </div>
           <div class="collapse-content">
             <p>
-              The pricing page is part of the boilerplate. It shows how the
-              pricing page integrates into the billing portal and the Stripe
-              Checkout flows.
+              The Annual plan saves you 20% and includes exclusive content,
+              priority support, and personalized insights that grow with your
+              baby—providing tailored answers for every stage, milestone, and
+              age.
             </p>
           </div>
         </div>
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            What license is the template under?
+            Can I cancel my subscription at any time?
           </div>
           <div class="collapse-content">
-            <p>The template is under the MIT license.</p>
+            <p>
+              Absolutely. You can cancel your subscription at any time directly
+              through your account. You’ll retain access to all features until
+              the end of your current billing cycle — no hidden fees or
+              penalties.
+            </p>
           </div>
         </div>
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            Can I try out purchase flows without real a credit card?
+            Is there a satisfaction guarantee?
           </div>
           <div class="collapse-content">
             <p>
-              Our demo page <a href="https://saasstarter.work" class="link"
-                >SaasStarter.work</a
-              > has a functional demo page, using Stripe's test environment.
+              Yes! We offer a 30-Day Money-Back Guarantee on both Monthly and
+              Annual plans. If BabyGPT doesn’t meet your expectations, you can
+              request a full refund within the first 30 days of your
+              subscription.
             </p>
-            <p class="mt-4">
-              You can use the credit card number 4242 4242 4242 4242 with any
-              future expiry date to test the payment and upgrade flows.
+          </div>
+        </div>
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
+            What kind of support is included?
+          </div>
+          <div class="collapse-content">
+            <p>
+              We’re here anytime you need us. Plus, Annual plan clients get
+              faster, more personal support when it matters most.
             </p>
           </div>
         </div>
@@ -141,7 +147,7 @@
         </symbol>
       </defs>
     </svg>
-
+    <!--
     <h1 class="text-2xl font-bold text-center mt-16">Plan Features</h1>
     <h2 class="text-xl text-center text-slate-500 mt-1 pb-3">
       Example feature table
@@ -211,5 +217,6 @@
         </tbody>
       </table>
     </div>
+    -->
   </div>
 </div>
