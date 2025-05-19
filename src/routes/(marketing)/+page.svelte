@@ -42,21 +42,21 @@
         "BabyGPT has been a game-changer for our family. The instant answers and guidance have given us so much confidence in our parenting journey.",
       author: "Sarah M.",
       role: "First-time parent",
-      image: "/images/testimonials/sarah.jpg",
+      image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
     },
     {
       quote:
         "As a busy parent, having 24/7 access to reliable information has been invaluable. It's like having a pediatrician in your pocket!",
       author: "Michael R.",
       role: "Parent of twins",
-      image: "/images/testimonials/michael.jpg",
+      image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
     },
     {
       quote:
         "The evidence-based approach and pediatrician review give me peace of mind. I know I'm getting accurate information when I need it most.",
       author: "Emily T.",
       role: "Parent of three",
-      image: "/images/testimonials/emily.jpg",
+      image: "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg",
     },
   ]
 </script>
@@ -318,7 +318,7 @@
   </div>
 
   <!-- Disclaimer Banner -->
-  <div class="bg-base-200 py-6 px-4">
+  <div class="bg-[#f9fafb] py-6 px-4">
     <div class="max-w-4xl mx-auto text-center text-neutral/80">
       <p class="text-sm flex items-center justify-center gap-2">
         <svg
