@@ -64,7 +64,7 @@
     <h1 class="text-2xl font-bold text-center mt-24">Pricing FAQ</h1>
     <div class="flex place-content-center">
       <div class="join join-vertical max-w-xl py-6 mx-auto">
-        <div class="collapse collapse-arrow join-item border border-primary">
+        <div class="collapse collapse-arrow join-item border border-gray-200">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
             What are the benefits of the Annual Plan?
@@ -78,7 +78,7 @@
             </p>
           </div>
         </div>
-        <div class="collapse collapse-arrow join-item border border-primary">
+        <div class="collapse collapse-arrow join-item border border-gray-200">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
             Can I cancel my subscription at any time?
@@ -86,13 +86,13 @@
           <div class="collapse-content">
             <p>
               Absolutely. You can cancel your subscription at any time directly
-              through your account. You’ll retain access to all features until
+              through your account. You'll retain access to all features until
               the end of your current billing cycle — no hidden fees or
               penalties.
             </p>
           </div>
         </div>
-        <div class="collapse collapse-arrow join-item border border-primary">
+        <div class="collapse collapse-arrow join-item border border-gray-200">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
             Is there a satisfaction guarantee?
@@ -100,20 +100,20 @@
           <div class="collapse-content">
             <p>
               Yes! We offer a 30-Day Money-Back Guarantee on both Monthly and
-              Annual plans. If BabyGPT doesn’t meet your expectations, you can
+              Annual plans. If BabyGPT doesn't meet your expectations, you can
               request a full refund within the first 30 days of your
               subscription.
             </p>
           </div>
         </div>
-        <div class="collapse collapse-arrow join-item border border-primary">
+        <div class="collapse collapse-arrow join-item border border-gray-200">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
             What kind of support is included?
           </div>
           <div class="collapse-content">
             <p>
-              We’re here anytime you need us. Plus, Annual plan clients get
+              We're here anytime you need us. Plus, Annual plan clients get
               faster, more personal support when it matters most.
             </p>
           </div>
