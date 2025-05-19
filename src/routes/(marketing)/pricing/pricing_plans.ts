@@ -12,32 +12,34 @@ export const pricingPlans = [
   },*/
   {
     id: "pro",
-    name: "Pro",
+    name: "Monthly",
     description:
-      "A plan to test the purchase experience. Try buying this with the test credit card 4242424242424242.",
-    price: "$5",
+      "",
+    price: "$29.99,
     priceIntervalName: "per month",
     stripe_price_id: "price_1RP67uFL9lxuf6jZwVxGybDr",
     stripe_product_id: "prod_SJjb3MSx3CfzCX",
     features: [
-      "Everything in Free",
-      "Support us with fake money",
-      "Test the purchase experience",
+      "Unlimited AI consultations",
+      "24/7 availability",
+      "Research-based recommendations",
+      "Cancel anytime"
     ],
   },
   {
     id: "enterprise",
-    name: "Enterprise",
+    name: "Annual",
     description:
-      "A plan to test the upgrade experience. Try buying this with the test credit card 4242424242424242.",
-    price: "$15",
+      "Save 20%",
+    price: "$23.99",
     priceIntervalName: "per month",
     stripe_price_id: "price_1RP6prFL9lxuf6jZ2Lbraa7I",
     stripe_product_id: "prod_SJkKV3DZWTmttb",
     features: [
-      "Everything in Pro",
-      "Try the 'upgrade plan' UX",
-      "Still actually free!",
+      "All Monthly Features",
+      "Priority support",
+      "Exclusive content",
+      "Personalized insights"
     ],
   },
 ]
