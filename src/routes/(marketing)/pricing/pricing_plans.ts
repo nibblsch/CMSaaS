@@ -13,9 +13,8 @@ export const pricingPlans = [
   {
     id: "pro",
     name: "Monthly",
-    description:
-      "",
-    price: "$29.99,
+    description: "",
+    price: "$29.99",
     priceIntervalName: "per month",
     stripe_price_id: "price_1RP67uFL9lxuf6jZwVxGybDr",
     stripe_product_id: "prod_SJjb3MSx3CfzCX",
@@ -23,14 +22,13 @@ export const pricingPlans = [
       "Unlimited AI consultations",
       "24/7 availability",
       "Research-based recommendations",
-      "Cancel anytime"
+      "Cancel anytime",
     ],
   },
   {
     id: "enterprise",
     name: "Annual",
-    description:
-      "Save 20%",
+    description: "Save 20%",
     price: "$23.99",
     priceIntervalName: "per month",
     stripe_price_id: "price_1RP6prFL9lxuf6jZ2Lbraa7I",
@@ -39,7 +37,7 @@ export const pricingPlans = [
       "All Monthly Features",
       "Priority support",
       "Exclusive content",
-      "Personalized insights"
+      "Personalized insights",
     ],
   },
 ]
