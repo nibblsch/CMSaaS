@@ -16,8 +16,8 @@ export const pricingPlans = [
     description: "",
     price: "$29.99",
     priceIntervalName: "per month",
-    stripe_price_id: "price_1RP67uFL9lxuf6jZwVxGybDr",
-    stripe_product_id: "prod_SJjb3MSx3CfzCX",
+    stripe_price_id: "price_1Qr7WxFL9lxuf6jZLQq91E44",
+    stripe_product_id: "prod_RkcmFAgddLLJfn",
     features: [
       "Unlimited AI consultations",
       "24/7 availability",
@@ -31,8 +31,8 @@ export const pricingPlans = [
     description: "Save 20%",
     price: "$23.99",
     priceIntervalName: "per month",
-    stripe_price_id: "price_1RP6prFL9lxuf6jZ2Lbraa7I",
-    stripe_product_id: "prod_SJkKV3DZWTmttb",
+    stripe_price_id: "price_1Qr7XlFL9lxuf6jZ9fg5mZjl",
+    stripe_product_id: "prod_RkcnX78pXVNKpu",
     features: [
       "All Monthly Features",
       "Priority support",
